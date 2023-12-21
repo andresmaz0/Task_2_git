@@ -1,0 +1,24 @@
+From db86e49ebdb789d83f618efe63040fee94e5a889 Mon Sep 17 00:00:00 2001
+From: Andres Mazo <amazobo@eafit.edu.co>
+Date: Fri, 22 Dec 2023 08:08:55 -0500
+Subject: [PATCH] changing 2 lines firstfile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 31ec9d5..ace1c78 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Toyota
+-Ford
++Toyota 2011
++Ford 2015
+ Honda
+ Chevrolet
+ Volkswagen
+-- 
+2.39.1.windows.1
+
